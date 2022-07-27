@@ -7,6 +7,6 @@ class AbstractSearch
     public int $page;
     public int $totalPages;
     public int $totalResults;
-    /** @var array<int, object> */
+    /* @phpstan-ignore-next-line */
     public array $results = [];
 }
