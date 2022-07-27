@@ -5,9 +5,9 @@ namespace Scraper\ScraperTmdb\Request;
 use Scraper\Scraper\Annotation\Scraper;
 
 /**
- * @Scraper(path="search/movie")
+ * @Scraper(path="search/tv")
  */
-class TmdbSearchMovieRequest extends TmdbRequest
+class TmdbSearchTvRequest extends TmdbRequest
 {
     public function setLanguage(string $language): self
     {
@@ -30,20 +30,6 @@ class TmdbSearchMovieRequest extends TmdbRequest
         return $this;
     }
 
-    public function setRegion(string $region): self
-    {
-        $this->parameters['region'] = $region;
-
-        return $this;
-    }
-
-    public function setYear(int $year): self
-    {
-        $this->parameters['year'] = $year;
-
-        return $this;
-    }
-
     public function setQuery(string $query): self
     {
         $this->parameters['query'] = $query;
@@ -51,9 +37,9 @@ class TmdbSearchMovieRequest extends TmdbRequest
         return $this;
     }
 
-    public function setPrimaryReleaseYear(int $primaryReleaseYear): self
+    public function setFirstAirDateYear(int $firstAirDateYear): self
     {
-        $this->parameters['primary_release_year'] = $primaryReleaseYear;
+        $this->parameters['first_air_date_year'] = $firstAirDateYear;
 
         return $this;
     }

@@ -1,0 +1,412 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+      "first_air_date": "2022-06-08",
+      "genre_ids": [
+        10765,
+        10759,
+        35
+      ],
+      "id": 92782,
+      "name": "Miss Marvel",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Ms. Marvel",
+      "overview": "Kamala Khan, aka Miss Marvel, est une adolescente américaine de confession musulmane vivant à Jersey City. Grande amatrice de jeux vidéo et insatiable rédactrice de fan-fiction, elle adore les super-héros, qui enflamment son imagination (surtout Captain Marvel). Mais elle peine à trouver sa place à la maison comme au lycée, jusqu’à ce qu’elle se découvre des superpouvoirs, semblables à ceux de ses héros. Elle se dit alors, peut-être de manière un peu prématurée, que tout va s’arranger.",
+      "popularity": 965.426,
+      "poster_path": "/3x1eRyuz2NOOSXODDcDl9EjGRQ.jpg",
+      "vote_average": 7.2,
+      "vote_count": 401
+    },
+    {
+      "backdrop_path": "/wAEWZm2pSopAbqE5dQWE0ET8aR5.jpg",
+      "first_air_date": "2021-01-08",
+      "genre_ids": [
+        99,
+        10759,
+        10765
+      ],
+      "id": 114695,
+      "name": "Les Légendes des Studios Marvel",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Studios: Legends",
+      "overview": "L’univers cinématique Marvel continue de grandir et Les Légendes des Studios Marvel fête et codifie les événements passés. Redécouvrez des héros épiques, des méchants, et des moments de l’univers Marvel en préparation des histoires très attendues encore à venir. Chaque séquence dynamique est directement liée aux séries à découvrir en exclusivité sur Disney+, posant les bases des événements à venir. Les Légendes des Studios Marvel tisse le lien entre les histoires qui constituent l’inégalé Univers Cinématographique Marvel (UCM ou MCU en anglais).",
+      "popularity": 116.531,
+      "poster_path": "/bj2663TEMoMvK2G1xCjln8nJAUQ.jpg",
+      "vote_average": 7.5,
+      "vote_count": 570
+    },
+    {
+      "backdrop_path": "/bltNf2ajBm3wkfiF5Lglw7DS0vk.jpg",
+      "first_air_date": "2021-03-12",
+      "genre_ids": [
+        99
+      ],
+      "id": 118924,
+      "name": "Marvel Studios : Rassemblement",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Studios: Assembled",
+      "overview": "Rassemblement est une série documentaire qui relate la création des nouveaux films et séries palpitants des Studios Marvel. Voyagez dans les coulisses de la production des séries WandaVision, Falcon et le Soldat de l'Hiver et Loki grâce à des images de tournage exclusives. Rejoignez les réalisateurs et célébrités telles que Scarlett Johansson et Jeremy Renner tandis qu'ils nous détaillent la genèse du film Black Widow et de la série Hawkeye. Rassemblement est une série immersive et à l'approche approfondie sur la création de la prochaine phase de l'Univers Cinématographique Marvel.",
+      "popularity": 79.789,
+      "poster_path": "/ninmsC18gVz6vzYXVKyBMLhSYGl.jpg",
+      "vote_average": 7.4,
+      "vote_count": 154
+    },
+    {
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        10765,
+        10759
+      ],
+      "id": 138505,
+      "name": "Marvel Zombies",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Zombies",
+      "overview": "L'univers Marvel est réimaginé alors qu'une nouvelle génération de héros se bat contre un fléau de zombies qui ne cesse de s'étendre.",
+      "popularity": 40.12,
+      "poster_path": "/vK2ZJlnurjxajVXGxy6KMeHJuW8.jpg",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/6KclfESXQia4BbJNv4xUnBqaWfe.jpg",
+      "first_air_date": "2015-04-10",
+      "genre_ids": [
+        80,
+        18,
+        10759
+      ],
+      "id": 61889,
+      "name": "Marvel's Daredevil",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Daredevil",
+      "overview": "Avocat luttant contre l'injustice et aveugle depuis l'enfance, Matt Murdock fait place au super-héros Daredevil lorsque la nuit tombe sur les rues de New York.",
+      "popularity": 156.488,
+      "poster_path": "/doJ6axLfzLCDaPqFSSHjaSTYKb2.jpg",
+      "vote_average": 8.1,
+      "vote_count": 3360
+    },
+    {
+      "backdrop_path": "/9GNdPoCSzWYeo2eYKFVLvzcG6Wg.jpg",
+      "first_air_date": "2017-09-29",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 68716,
+      "name": "Marvel's Inhumans",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Inhumans",
+      "overview": "Sur la face cachée de la Lune, la cité d'Attilan cache une communauté d'Inhumains vivant depuis plusieurs générations loin de la Terre. Alors que des Inhumains réapparaissent sur Terre après que des cristaux tératogènes ont été libérés en mer, le règne du roi Blackagar Boltagon, à la voix destructrice, est menacé par son frère Maximus, un Inhumain sans pouvoirs qui aspire à ce que ses semblables reprennent leur place sur Terre. La conspiration va forcer le roi, la reine Médusa, son conseiller Karnak et le chef de la garde royale Gorgone à trouver refuge sur Terre, sur l'île d'Oahu, pendant que Maximus prend le pouvoir.",
+      "popularity": 49.375,
+      "poster_path": "/y3aFlpB4Vwn1Qz0WOTUOTf6GmPl.jpg",
+      "vote_average": 6.3,
+      "vote_count": 498
+    },
+    {
+      "backdrop_path": "/2yfmJudf695JBUJRW7QJjVN1rg5.jpg",
+      "first_air_date": "2017-11-17",
+      "genre_ids": [
+        10759,
+        80,
+        18
+      ],
+      "id": 67178,
+      "name": "Marvel's The Punisher",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's The Punisher",
+      "overview": "Un ancien Marine déterminé à punir les criminels qui ont assassiné sa femme et ses enfants se retrouve plongé au cœur d'un complot militaire.",
+      "popularity": 96.836,
+      "poster_path": "/3OnQslnegPmdsjUsjplfotMAPyk.jpg",
+      "vote_average": 8.1,
+      "vote_count": 1751
+    },
+    {
+      "backdrop_path": "/7PYAUaJzzUVxS4xiJHFe338vJd1.jpg",
+      "first_air_date": "2017-11-21",
+      "genre_ids": [
+        10759,
+        80,
+        18,
+        10765
+      ],
+      "id": 67466,
+      "name": "Marvel's Runaways",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Runaways",
+      "overview": "Un groupe d’adolescents découvre lors d’une soirée que leurs parents se livrent à un sacrifice humain dans la cave de leur maison... Derrière leur association appelée PRIDE se cache en réalité une secte aux objectifs bien mystérieux. Mais le petit groupe d’ado va également faire une étrange découverte : chacun est doté de super-pouvoirs !",
+      "popularity": 39.841,
+      "poster_path": "/wNfhLQjnu77E6iQ7E8WvfOnvCvA.jpg",
+      "vote_average": 7.6,
+      "vote_count": 731
+    },
+    {
+      "backdrop_path": "/qDum1yhNftUMaIB3pPiZ7PLsIto.jpg",
+      "first_air_date": "2017-08-19",
+      "genre_ids": [
+        16,
+        10765
+      ],
+      "id": 72705,
+      "name": "Marvel's Spider-Man",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Spider-Man",
+      "overview": "Centré sur les origines du super-héros, Marvel’s Spider-Man suit le jeune Peter Parker, un brillant étudiant promis à un grand avenir dont le destin est bouleversé quand il développe des super-pouvoirs après avoir été mordu par une araignée radioactive. Mais, comme chacun sait, un grand pouvoir implique de grandes responsabilités, et c’est à ses dépens - la mort de son oncle Ben - que l’adolescent va s’en rendre compte.",
+      "popularity": 54.462,
+      "poster_path": "/dKdcyyHUR5WTMnrbPdYN5y9xPVp.jpg",
+      "vote_average": 7.6,
+      "vote_count": 295
+    },
+    {
+      "backdrop_path": "/6ZqXMR9aLLdGjbxkIMo77EhZexy.jpg",
+      "first_air_date": "2013-05-26",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "id": 59427,
+      "name": "Avengers Rassemblement",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Avengers Assemble",
+      "overview": "Marvel’s Avengers Assemble est une série animée racontant des histoires directement en lien avec le film The Avengers. Iron Man est le leader de cette équipe réunissant les plus puissants des superhéros: Hulk, Captain America, Thor, Hawkeye, Black Widow et un nouveau venu, Falcon. Ils allieront leurs forces face à des menaces qu'un seul ne peut pas vaincre. Quand les Avengers se réunissent, le mal n'a aucune chance de l'emporter.",
+      "popularity": 77.361,
+      "poster_path": "/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+      "vote_average": 7.6,
+      "vote_count": 559
+    },
+    {
+      "backdrop_path": "/MaQ7hbNsiJ30p14UgRdEnXDGMH.jpg",
+      "first_air_date": "2015-01-06",
+      "genre_ids": [
+        18,
+        10765
+      ],
+      "id": 61550,
+      "name": "Agent Carter",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Agent Carter",
+      "overview": "En 1946, à la suite de la Seconde Guerre mondiale, la paix n’a pas aidé Peggy Carter qui se retrouve marginalisée après que les hommes sont rentrés du combat. Alors qu’elle travaille pour le SSR (Strategic Scientific Reserve), Peggy doit trouver un équilibre entre un poste administratif et des missions secrètes qu’elle effectue pour Howard Stark, tout en tentant de vivre sa vie de femme célibataire dans l’Amérique des années 1940, après avoir perdu l’homme de sa vie, Steve Rogers alias Captain America.",
+      "popularity": 59.413,
+      "poster_path": "/8Y30TnBtGT4C7RI3nruPaIGGSkZ.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1420
+    },
+    {
+      "backdrop_path": "/eB36Ys5Kg84iFO0HO2ZbUNe34VR.jpg",
+      "first_air_date": "2018-08-13",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 83043,
+      "name": "Marvel Rising: Initiation",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Rising: Initation",
+      "overview": "Gwen Stacy AKA Ghost-Spider, accusée à tort d'un crime qu'elle n'a pas commis, cherche à effacer son nom et à rendre justice. Malheureusement, son père n'est pas seulement le capitaine du NYPD, mais il est le fer de lance de la chasse à l'homme! Pour aggraver les choses, d'autres jeunes héros — Mme. Marvel, Squirrel Girl, Quake et Patriot — recherchent également Ghost Spider. Mais, alors que la chasse pour découvrir la vérité tire à sa fin, une menace plus sombre se profile à l'horizon, et très bientôt, ces héros devront mettre de côté leurs différences et travailler ensemble en équipe.",
+      "popularity": 8.378,
+      "poster_path": "/8z8Z7ZwFgatxp33fvxRKLyl2xd9.jpg",
+      "vote_average": 7.3,
+      "vote_count": 22
+    },
+    {
+      "backdrop_path": "/j7AHhA0bH5FlVPVMFcKNOLC4PMv.jpg",
+      "first_air_date": "2016-09-30",
+      "genre_ids": [
+        18,
+        10765,
+        10759,
+        80
+      ],
+      "id": 62126,
+      "name": "Marvel's Luke Cage",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Luke Cage",
+      "overview": "À l'abri de sa capuche, un ancien détenu se bat pour blanchir son nom et sauver son quartier. Il ne cherchait pas la bagarre, mais les gens avaient besoin d'un héros.",
+      "popularity": 51.011,
+      "poster_path": "/quTfV803fGaSADzTeEqCbIZnt9d.jpg",
+      "vote_average": 7,
+      "vote_count": 1318
+    },
+    {
+      "backdrop_path": "/g9ju2o4LioYYOyihBvf9lVX8XL.jpg",
+      "first_air_date": "2015-11-20",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 38472,
+      "name": "Marvel's Jessica Jones",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Jessica Jones",
+      "overview": "Hantée par un passé traumatisant, la détective privée Jessica Jones cherche celui qui la persécute avant qu'il ne trouve quelqu'un d'autre à torturer à Hell's Kitchen.",
+      "popularity": 46.102,
+      "poster_path": "/hCNUxbt8ohAYQhSnBChuknjxH8z.jpg",
+      "vote_average": 7.6,
+      "vote_count": 1739
+    },
+    {
+      "backdrop_path": "/n4XLn0wLCxWSFaQgG6queZlFPKi.jpg",
+      "first_air_date": "2017-08-18",
+      "genre_ids": [
+        10765,
+        10759,
+        80
+      ],
+      "id": 62285,
+      "name": "Marvel's The Defenders",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's The Defenders",
+      "overview": "Daredevil, Jessica Jones, Luke Cage et Iron Fist s'allient pour combattre leurs ennemis communs quand un sinistre complot menace New York de destruction.",
+      "popularity": 42.417,
+      "poster_path": "/k8UOUmPzCHrflLHxvNhogsJGo8D.jpg",
+      "vote_average": 7.2,
+      "vote_count": 970
+    },
+    {
+      "backdrop_path": "/sH1RoZI7226e7B3tfRC7cRJBUDy.jpg",
+      "first_air_date": "2009-08-18",
+      "genre_ids": [
+        16,
+        10759
+      ],
+      "id": 77269,
+      "name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel Knights: Spider-Woman, Agent of S.W.O.R.D.",
+      "overview": "",
+      "popularity": 21.166,
+      "poster_path": "/93pxdXPT8RC2pArLU3iQPGyQkAX.jpg",
+      "vote_average": 6.2,
+      "vote_count": 14
+    },
+    {
+      "backdrop_path": "/80BRASQnT9KT7BkFeEI0EdeRIF3.jpg",
+      "first_air_date": "2013-09-24",
+      "genre_ids": [
+        18,
+        10765,
+        10759
+      ],
+      "id": 1403,
+      "name": "Marvel : Les Agents du S.H.I.E.L.D.",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+      "overview": "Suite aux évènements survenus dans THE AVENGERS, l'agent Phil Coulson retourne au sein de l'organisation mondiale du maintien de l'ordre, le S.H.I.E.L.D., pour y mettre sur pied une petite équipe d'agents extrêmement bien entraînés afin de s'attaquer aux affaires non encore classées ayant un trait aux phénomènes nouveaux, étranges et inconnus. Constistuée du très intègre agent Grant Ward, expert en combat et renseignements, de l'agent Melinda May, pilote émérite et experte en arts martiaux et des très brillants, si ce n'est un peu étranges socialement, agents scientifiques Leo Fitz et Jemma Simmons, l'équipe sera épaulée par Skye, nouvelle recrue civile, hacker et fan de super-héros.",
+      "popularity": 139.946,
+      "poster_path": "/dkHouFUzCNVMjmT1UG5nsuTGMdK.jpg",
+      "vote_average": 7.5,
+      "vote_count": 2891
+    },
+    {
+      "backdrop_path": "/f7PJT5Vvc99vjEmo6JyfDs3p3ei.jpg",
+      "first_air_date": "2020-11-20",
+      "genre_ids": [
+        99
+      ],
+      "id": 102693,
+      "name": "Marvel 616",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's 616",
+      "overview": "Focus sur les passerelles qui relient le monde qui nous entoure au foisonnant univers MARVEL riche en histoires, personnages et créateurs. Chaque épisode explore en détail le contexte historique, culturel et social des récits MARVEL.",
+      "popularity": 16.779,
+      "poster_path": "/5cFDybXCUnGQU3j2ePrtGbEuQKO.jpg",
+      "vote_average": 7.5,
+      "vote_count": 91
+    },
+    {
+      "backdrop_path": "/yT5ZZ3kOtCzJJVLKKp2YCNrOKrh.jpg",
+      "first_air_date": "2021-11-17",
+      "genre_ids": [
+        10759,
+        16
+      ],
+      "id": 133903,
+      "name": "Marvel's Hit-Monkey",
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Marvel's Hit-Monkey",
+      "overview": "Dans les bas-fonds de Tokyo, un singe doué en arts martiaux s’entraîne auprès du fantôme d’un assassin américain afin d’accomplir sa vengeance auprès d’une organisation criminelle.",
+      "popularity": 27.908,
+      "poster_path": "/91CZErNXEsfxlSpzb2wSsZrSH2L.jpg",
+      "vote_average": 7.9,
+      "vote_count": 49
+    },
+    {
+      "backdrop_path": null,
+      "first_air_date": "2013-04-23",
+      "genre_ids": [],
+      "id": 65364,
+      "name": "Marvel Knights: Inhumans",
+      "origin_country": [],
+      "original_language": "en",
+      "original_name": "Marvel Knights: Inhumans",
+      "overview": "",
+      "popularity": 4.932,
+      "poster_path": "/bXdfKvara1cKjECY7wEbHh5rq3g.jpg",
+      "vote_average": 6,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 6,
+  "total_results": 104
+}
