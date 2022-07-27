@@ -2,29 +2,48 @@
 
 namespace Scraper\ScraperTmdb\Model;
 
-class Movie
+class Movie extends MovieSearch
 {
-    public int $id;
-    public bool $adult;
-    public ?string $backdropPath;
-    public ?string $posterPath;
-    /** @var array<int, int> */
-    public array $genreIds;
-    public string $originalLanguage;
-    public string $title;
-    public string $originalTitle;
-    public string $overview;
-    public float $popularity;
-    public \DateTime $releaseDate;
-    public bool $video;
-    public float $voteAverage;
-    public int $voteCount;
+    public ?BelongsToCollection $belongsToCollection;
+    public ?int $budget;
+    /** @var array<int, Genre> */
+    public array $genres;
+    public ?string $homepage;
+    public ?string $imdbId;
+    /** @var array<int, Company> */
+    public array $productionCompanies;
+    /** @var array<int, Country> */
+    public array $productionCountries;
+    public ?int $revenue;
+    public ?int $runtime;
+    /** @var array<int, Language> */
+    public array $spokenLanguages;
+    public ?string $status;
+    public ?string $tagline;
+    public ?Images $images;
+    public ?Videos $videos;
 
-    public function setReleaseDate(string $releaseDate): self
+    public function addGenre(Genre $genre): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $releaseDate)) {
-            $this->releaseDate = $dateTime;
-        }
+        $this->genres[] = $genre;
+        return $this;
+    }
+
+    public function addProductionCompany(Company $company): self
+    {
+        $this->productionCompanies[] = $company;
+        return $this;
+    }
+
+    public function addProductionCountry(Country $country): self
+    {
+        $this->productionCountries[] = $country;
+        return $this;
+    }
+
+    public function addSpokenLanguage(Language $language): self
+    {
+        $this->spokenLanguages[] = $language;
         return $this;
     }
 }

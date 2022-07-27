@@ -2,7 +2,7 @@
 
 namespace Scraper\ScraperTmdb\Model;
 
-class Tv
+class TvSearch
 {
     public int $id;
     public bool $adult;

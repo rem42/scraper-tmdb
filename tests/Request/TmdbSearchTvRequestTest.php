@@ -3,7 +3,7 @@
 namespace Scraper\ScraperTmdb\Tests\Request;
 
 use Scraper\ScraperTmdb\Model\SearchTv;
-use Scraper\ScraperTmdb\Model\Tv;
+use Scraper\ScraperTmdb\Model\TvSearch;
 use Scraper\ScraperTmdb\Request\TmdbSearchTvRequest;
 
 /**
@@ -25,6 +25,6 @@ class TmdbSearchTvRequestTest extends AbtractRequestTest
 
         $this->assertInstanceOf(SearchTv::class, $result);
         $this->assertIsArray($result->results);
-        $this->assertInstanceOf(Tv::class, $result->results[0]);
+        $this->assertInstanceOf(TvSearch::class, $result->results[0]);
     }
 }
