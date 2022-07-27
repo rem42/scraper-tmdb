@@ -2,7 +2,7 @@
 
 namespace Scraper\ScraperTmdb\Model;
 
-class Movie
+class TvSearch
 {
     public int $id;
     public bool $adult;
@@ -10,20 +10,22 @@ class Movie
     public ?string $posterPath;
     /** @var array<int, int> */
     public array $genreIds;
+    /** @var array<int, string> */
+    public array $originCountry;
     public string $originalLanguage;
-    public string $title;
-    public string $originalTitle;
+    public string $name;
+    public string $originalName;
     public string $overview;
     public float $popularity;
-    public \DateTime $releaseDate;
+    public \DateTime $firstAirDate;
     public bool $video;
     public float $voteAverage;
     public int $voteCount;
 
-    public function setReleaseDate(string $releaseDate): self
+    public function setFirstAirDate(string $firstAirDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $releaseDate)) {
-            $this->releaseDate = $dateTime;
+        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $firstAirDate)) {
+            $this->firstAirDate = $dateTime;
         }
         return $this;
     }

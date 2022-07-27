@@ -2,7 +2,7 @@
 
 namespace Scraper\ScraperTmdb\Tests\Request;
 
-use Scraper\ScraperTmdb\Model\Movie;
+use Scraper\ScraperTmdb\Model\MovieSearch;
 use Scraper\ScraperTmdb\Model\SearchMovie;
 use Scraper\ScraperTmdb\Request\TmdbSearchMovieRequest;
 
@@ -25,6 +25,6 @@ class TmdbSearchMovieRequestTest extends AbtractRequestTest
 
         $this->assertInstanceOf(SearchMovie::class, $result);
         $this->assertIsArray($result->results);
-        $this->assertInstanceOf(Movie::class, $result->results[0]);
+        $this->assertInstanceOf(MovieSearch::class, $result->results[0]);
     }
 }

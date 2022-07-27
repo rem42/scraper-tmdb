@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+  "belongs_to_collection": {
+    "id": 623911,
+    "name": "Captain Marvel - Saga",
+    "poster_path": "/vMacLMNqwbP5eQ9KGpZE9ZqgCIk.jpg",
+    "backdrop_path": "/ubZUKycnQldt2umj0bPD2VwXDJM.jpg"
+  },
+  "budget": 152000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Aventure"
+    },
+    {
+      "id": 878,
+      "name": "Science-Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 299537,
+  "imdb_id": "tt4154664",
+  "original_language": "en",
+  "original_title": "Captain Marvel",
+  "overview": "Captain Marvel raconte l’histoire de Carol Danvers qui va devenir l’une des super-héroïnes les plus puissantes de l’univers lorsque la Terre se révèle l’enjeu d’une guerre galactique entre deux races extraterrestres.",
+  "popularity": 120.21,
+  "poster_path": "/aRJAoQ6mqPHAKXjP3CqNyLC8FAh.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-06",
+  "revenue": 1128276090,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Notre monde aura besoin d'elle.",
+  "title": "Captain Marvel",
+  "video": false,
+  "vote_average": 6.904,
+  "vote_count": 13280
+}
