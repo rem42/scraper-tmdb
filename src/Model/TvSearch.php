@@ -9,9 +9,9 @@ class TvSearch
     public ?string $backdropPath;
     public ?string $posterPath;
     /** @var array<int, int> */
-    public array $genreIds;
+    public array $genreIds = [];
     /** @var array<int, string> */
-    public array $originCountry;
+    public array $originCountry = [];
     public string $originalLanguage;
     public string $name;
     public string $originalName;

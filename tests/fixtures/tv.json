@@ -1,0 +1,219 @@
+{
+  "adult": false,
+  "backdrop_path": "/rlCRM7U5g2hcU1O8ylGcqsMYHIP.jpg",
+  "created_by": [
+    {
+      "id": 2395058,
+      "credit_id": "602e7797d94035003e781c43",
+      "name": "Bisha K. Ali",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2022-06-08",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Science-Fiction & Fantastique"
+    },
+    {
+      "id": 10759,
+      "name": "Action & Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comédie"
+    }
+  ],
+  "homepage": "https://disneyplus.com/series/ms-marvel/45BsikoMcOOo",
+  "id": 92782,
+  "in_production": false,
+  "languages": [
+    "en",
+    "ur"
+  ],
+  "last_air_date": "2022-07-13",
+  "last_episode_to_air": {
+    "air_date": "2022-07-13",
+    "episode_number": 6,
+    "id": 3603693,
+    "name": "Retour à la normale",
+    "overview": "De retour chez elle, Kamala se bat pour sauver Kamran des griffes de Damage Control",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 1,
+    "show_id": 92782,
+    "still_path": "/3cbOYF4iX2jEi5lTDQ5C0xAchPo.jpg",
+    "vote_average": 6.1,
+    "vote_count": 16
+  },
+  "name": "Miss Marvel",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2739,
+      "name": "Disney+",
+      "logo_path": "/uzKjVDmQ1WRMvGBb7UNRE0wTn1H.png",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 6,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ms. Marvel",
+  "overview": "Kamala Khan, aka Miss Marvel, est une adolescente américaine de confession musulmane vivant à Jersey City. Grande amatrice de jeux vidéo et insatiable rédactrice de fan-fiction, elle adore les super-héros, qui enflamment son imagination (surtout Captain Marvel). Mais elle peine à trouver sa place à la maison comme au lycée, jusqu’à ce qu’elle se découvre des superpouvoirs, semblables à ceux de ses héros. Elle se dit alors, peut-être de manière un peu prématurée, que tout va s’arranger.",
+  "popularity": 965.426,
+  "poster_path": "/3x1eRyuz2NOOSXODDcDl9EjGRQ.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 176762,
+      "logo_path": null,
+      "name": "Kevin Feige Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-06-08",
+      "episode_count": 6,
+      "id": 130652,
+      "name": "Saison 1",
+      "overview": "",
+      "poster_path": "/3x1eRyuz2NOOSXODDcDl9EjGRQ.jpg",
+      "season_number": 1
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "L'avenir est entre ses mains.",
+  "type": "Miniseries",
+  "vote_average": 7.156,
+  "vote_count": 405,
+  "images": {
+    "backdrops": [],
+    "logos": [
+      {
+        "aspect_ratio": 2.315,
+        "height": 1294,
+        "iso_639_1": "fr",
+        "file_path": "/cZ0tcpgQ8aK54Q2KXX0NBn9CEXv.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2996
+      },
+      {
+        "aspect_ratio": 2.618,
+        "height": 1139,
+        "iso_639_1": "fr",
+        "file_path": "/2zEWZAXmECb2qY8A1bRaXMylPRW.png",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2982
+      }
+    ],
+    "posters": [
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_639_1": "fr",
+        "file_path": "/3x1eRyuz2NOOSXODDcDl9EjGRQ.jpg",
+        "vote_average": 5.312,
+        "vote_count": 1,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1350,
+        "iso_639_1": "fr",
+        "file_path": "/zGmS07VlcXImWWtmulWLrFdpYbO.jpg",
+        "vote_average": 5.246,
+        "vote_count": 2,
+        "width": 900
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 1100,
+        "iso_639_1": "fr",
+        "file_path": "/f17yNA47s1fYAgvbXV1YsRVUpzc.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 734
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_639_1": "fr",
+        "file_path": "/xrhSx7eMBhKkjMXnYkGgB0utb8T.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      },
+      {
+        "aspect_ratio": 0.667,
+        "height": 3000,
+        "iso_639_1": "fr",
+        "file_path": "/98hZ4xSEjY6JSAmTA4SStcB4w3D.jpg",
+        "vote_average": 0.0,
+        "vote_count": 0,
+        "width": 2000
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "fr",
+        "iso_3166_1": "FR",
+        "name": "Miss Marvel - Bande Annonce [VOST]",
+        "key": "Xih0cqdcv4Q",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-03-15T14:17:01.000Z",
+        "id": "6230a945d48cee001c57b1c7"
+      },
+      {
+        "iso_639_1": "fr",
+        "iso_3166_1": "FR",
+        "name": "Miss Marvel - Bande Annonce [VF]",
+        "key": "JTb4NIzxtYE",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "published_at": "2022-03-15T14:16:51.000Z",
+        "id": "6230a92e982f7400448ad53d"
+      }
+    ]
+  }
+}
