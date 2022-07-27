@@ -3,7 +3,9 @@
 namespace Scraper\ScraperTmdb\Tests\Request;
 
 use Scraper\ScraperTmdb\Model\BelongsToCollection;
+use Scraper\ScraperTmdb\Model\Images;
 use Scraper\ScraperTmdb\Model\Movie;
+use Scraper\ScraperTmdb\Model\Videos;
 use Scraper\ScraperTmdb\Request\TmdbMovieRequest;
 
 /**
@@ -24,5 +26,7 @@ class TmdbMovieRequestTest extends AbtractRequestTest
 
         $this->assertInstanceOf(Movie::class, $result);
         $this->assertInstanceOf(BelongsToCollection::class, $result->belongsToCollection);
+        $this->assertInstanceOf(Images::class, $result->images);
+        $this->assertInstanceOf(Videos::class, $result->videos);
     }
 }

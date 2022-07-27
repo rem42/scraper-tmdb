@@ -20,6 +20,8 @@ class Movie extends MovieSearch
     public array $spokenLanguages;
     public ?string $status;
     public ?string $tagline;
+    public ?Images $images;
+    public ?Videos $videos;
 
     public function addGenre(Genre $genre): self
     {
