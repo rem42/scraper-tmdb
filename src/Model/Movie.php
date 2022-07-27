@@ -8,6 +8,7 @@ class Movie
     public bool $adult;
     public ?string $backdropPath;
     public ?string $posterPath;
+    /** @var array<int, int> */
     public array $genreIds;
     public string $originalLanguage;
     public string $title;

@@ -7,7 +7,10 @@ use Scraper\Scraper\Client;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 use Symfony\Contracts\HttpClient\ResponseInterface;
 
-class AbtractRequestTest extends TestCase
+/**
+ * @internal
+ */
+abstract class AbtractRequestTest extends TestCase
 {
     protected function getClient(string $fixture): Client
     {

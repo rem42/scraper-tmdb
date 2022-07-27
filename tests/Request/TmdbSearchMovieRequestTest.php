@@ -6,6 +6,9 @@ use Scraper\ScraperTmdb\Model\Movie;
 use Scraper\ScraperTmdb\Model\SearchMovie;
 use Scraper\ScraperTmdb\Request\TmdbSearchMovieRequest;
 
+/**
+ * @internal
+ */
 class TmdbSearchMovieRequestTest extends AbtractRequestTest
 {
     public function testTmdbSearchMovieRequest(): void

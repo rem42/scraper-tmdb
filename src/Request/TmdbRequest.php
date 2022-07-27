@@ -11,14 +11,16 @@ use Scraper\Scraper\Request\ScraperRequest;
  */
 abstract class TmdbRequest extends ScraperRequest implements RequestQuery
 {
-    /** @var array<string, int|string> */
+    /** @var array<string, int|string|bool> */
     protected array $parameters = [];
 
     public function __construct(
         protected string $apiKey
-    ) {
-    }
+    ) {}
 
+    /**
+     * @return array<string, bool|int|string>
+     */
     public function getQuery(): array
     {
         return array_merge(
@@ -27,7 +29,11 @@ abstract class TmdbRequest extends ScraperRequest implements RequestQuery
         );
     }
 
-    public function setAppendToResponse(array $list): self {
+    /**
+     * @param array<int, string> $list
+     */
+    public function setAppendToResponse(array $list): self
+    {
         $this->parameters['append_to_response'] = implode(',', $list);
 
         return $this;

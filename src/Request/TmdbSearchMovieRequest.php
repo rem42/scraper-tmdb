@@ -3,8 +3,6 @@
 namespace Scraper\ScraperTmdb\Request;
 
 use Scraper\Scraper\Annotation\Scraper;
-use Scraper\Scraper\Request\RequestQuery;
-use Scraper\Scraper\Request\ScraperRequest;
 
 /**
  * @Scraper(path="search/movie")
