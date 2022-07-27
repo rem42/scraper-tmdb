@@ -2,6 +2,7 @@
 
 namespace Scraper\ScraperTmdb\Tests\Request;
 
+use Scraper\ScraperTmdb\Model\Crew;
 use Scraper\ScraperTmdb\Model\TvEpisode;
 use Scraper\ScraperTmdb\Request\TmdbTvEpisodeRequest;
 
@@ -10,7 +11,7 @@ use Scraper\ScraperTmdb\Request\TmdbTvEpisodeRequest;
  */
 class TmdbTvEpisodeRequestTest extends AbtractRequestTest
 {
-    public function testTmdbTvRequest(): void
+    public function testTmdbTvEpisodeRequest(): void
     {
         $client = $this->getClient('episode.json');
 
@@ -24,5 +25,9 @@ class TmdbTvEpisodeRequestTest extends AbtractRequestTest
         $result = $client->send($request);
 
         $this->assertInstanceOf(TvEpisode::class, $result);
+        $this->assertIsArray($result->crew);
+        $this->assertInstanceOf(Crew::class, $result->crew[0]);
+        $this->assertIsArray($result->guestStars);
+        $this->assertInstanceOf(Crew::class, $result->guestStars[0]);
     }
 }

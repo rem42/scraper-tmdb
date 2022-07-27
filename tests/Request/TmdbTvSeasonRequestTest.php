@@ -11,7 +11,7 @@ use Scraper\ScraperTmdb\Request\TmdbTvSeasonRequest;
  */
 class TmdbTvSeasonRequestTest extends AbtractRequestTest
 {
-    public function testTmdbTvRequest(): void
+    public function testTmdbTvSeasonRequest(): void
     {
         $client = $this->getClient('season.json');
 
