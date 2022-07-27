@@ -1,0 +1,407 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/w2PMyoyLU22YvrGK3smVM9fW1jj.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 299537,
+      "original_language": "en",
+      "original_title": "Captain Marvel",
+      "overview": "Captain Marvel raconte l’histoire de Carol Danvers qui va devenir l’une des super-héroïnes les plus puissantes de l’univers lorsque la Terre se révèle l’enjeu d’une guerre galactique entre deux races extraterrestres.",
+      "popularity": 120.21,
+      "poster_path": "/aRJAoQ6mqPHAKXjP3CqNyLC8FAh.jpg",
+      "release_date": "2019-03-06",
+      "title": "Captain Marvel",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 13277
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/45Jpw4XHa95GoXKKUlQQSP1PgvK.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878,
+        14
+      ],
+      "id": 211387,
+      "original_language": "en",
+      "original_title": "Marvel One-Shot: Agent Carter",
+      "overview": "Après les évènements qui impliquent la disparition de Steve Rogers/Captain America, l'Agent Peggy Carter se retrouve enrôlée dans les prémices du S.H.I.E.L.D et s'octroie la mission de retrouver le \"Zodiac\" malgré les ordres de son chef sexiste qui ne lui donne que des tâches administratives.",
+      "popularity": 37.243,
+      "poster_path": "/qHjvXAAMyZ3Ylip9SqZEGJzyL9n.jpg",
+      "release_date": "2013-09-03",
+      "title": "Éditions uniques Marvel : Agent Carter",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 570
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pC36ONAaKMXStlvutYFcAbMemCM.jpg",
+      "genre_ids": [
+        878,
+        28,
+        14
+      ],
+      "id": 119569,
+      "original_language": "en",
+      "original_title": "Marvel One-Shot: Item 47",
+      "overview": "À l'issue du combat final de \"Avengers\", certaines armes de technologie extra-terrestre ont été abandonnées dans les rues. Le S.H.I.E.L.D les a toutes récupérées... mais une manque à l'appel : un puissant équipement chitauri baptisé \"Article 47\" ! Pour Benny et Claire, la journée s'annonce plutôt bonne. Ils ont découvert malgré eux l'arme manquante et s'apprêtent à s'en servir pour braquer une banque. Ce qu'ils ignorent en revanche, c'est que des agents du S.H.I.E.L.D. sont déjà sur leurs traces et qu'ils ne leur reste guère plus qu'une poignée de minutes avant qu'ils n'aient à payer pour leurs crimes...",
+      "popularity": 30.464,
+      "poster_path": "/636mzj2gCoHdVMO33ZbWY9PpKx.jpg",
+      "release_date": "2012-09-13",
+      "title": "Éditions uniques Marvel : Article 47",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 387
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dLaiXS1LSKEwV1gu7BUxQAa0j9n.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 979160,
+      "original_language": "en",
+      "original_title": "A Fan's Guide to Ms. Marvel",
+      "overview": "Un court métrage documentaire qui vous donne un aperçu exclusif de la série originale \"Ms. Marvel\", de ses origines en bande dessinée à son développement et sa production en tant que prochaine série à succès de Marvel Studios sur Disney+. Il présente des entretiens avec son équipe de tournage primée et la star captivante de la série, la nouvelle venue Iman Vellani.",
+      "popularity": 42.726,
+      "poster_path": "/j9eolvgB0wIPeXZ5Q3wkgsf9Byz.jpg",
+      "release_date": "2022-06-01",
+      "title": "Le guide complet Miss Marvel",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/95AKEQdhAF7YlH6XJSOFaqNTW0J.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        28,
+        35,
+        878,
+        10770,
+        12
+      ],
+      "id": 491633,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Secret Warriors",
+      "overview": "Marvel Rising: Secret Warriors est un événement attendu depuis longtemps, réunissant les personnages les plus récents et les plus appréciés de Marvel qui ont suscité l'enthousiasme des fans au cours des dernières années. Les adolescentes propulsées Mme Marvel, Squirrel Girl, Quake, Patriot, America Chavez et Inferno unissent leurs forces pour former un équipage improbable mais formidable de héros en herbe. Lorsqu'une menace à laquelle personne n'aurait pu s'attendre pèse sur l'univers Marvel, ce groupe d'adolescents hétéroclites et non formés n'a d'autre choix que de se lever ensemble et de prouver au monde que parfois la différence entre un \"héros\" et un \"inadapté\" est juste le nom.",
+      "popularity": 19.038,
+      "poster_path": "/kY1ufnbv2bTyoNcAtGF4BwapKi6.jpg",
+      "release_date": "2018-09-30",
+      "title": "Marvel Rising: Secret Warriors",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 72
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qEEpoVOCgCSBx9Oj5w5QofoxSiJ.jpg",
+      "genre_ids": [
+        12,
+        14,
+        878,
+        28
+      ],
+      "id": 76122,
+      "original_language": "en",
+      "original_title": "Marvel One-Shot: The Consultant",
+      "overview": "L'agent du S.H.I.E.L.D. Phil Coulson rejoint l'agent Sitwell afin de discuter de la décision de faire d'Emil Blonsky/L'Abomination un membre du projet \"Avengers\" et des moyens de l'empêcher…",
+      "popularity": 15.991,
+      "poster_path": "/ujamH9m90eIknBeCHPmFhFWm6kT.jpg",
+      "release_date": "2011-09-13",
+      "title": "Le Consultant",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 384
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vp4PvW8vxWHN8rai42SeOXcimcp.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        28
+      ],
+      "id": 583209,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Heart of Iron",
+      "overview": "Ironheart, alias Riri Williams, a du mal à s'adapter à la vie universitaire en tant que plus jeune étudiante là-bas lorsque le laboratoire d'ingénierie du collège est démoli par un extraterrestre et que sa meilleure amie est kidnappée. Inspirée par Iron Man, elle élabore un plan pour sauver son ami.",
+      "popularity": 17.089,
+      "poster_path": "/vyJTfBQkuPAiQdZ1ozgNKwiifB7.jpg",
+      "release_date": "2019-04-03",
+      "title": "Marvel Rising : Cœur de Fer",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zRWPnVX9KL1LPOQrJfPuY9ynVkX.jpg",
+      "genre_ids": [
+        16
+      ],
+      "id": 375211,
+      "original_language": "en",
+      "original_title": "Marvel Knights: Eternals",
+      "overview": "",
+      "popularity": 12.064,
+      "poster_path": "/wVWDDzB0sWEIEMh0TXgqRa8X65o.jpg",
+      "release_date": "2014-09-16",
+      "title": "Marvel Knights: Eternals",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/czHz1DWWE0bcffXybT7u1wNshSx.jpg",
+      "genre_ids": [
+        10770,
+        99
+      ],
+      "id": 259910,
+      "original_language": "en",
+      "original_title": "Marvel Studios: Assembling a Universe",
+      "overview": "Dans ce documentaire exclusif, vous allez plonger au cœur de l'univers cinématographique Marvel. Découvrir les débuts des studios Marvel, depuis les films qui battent tous les records, en passant par le phénomène culturel, jusqu'à l'expansion de l'univers avec Marvel Television. Ce premier documentaire télévisé Marvel nous raconte l'histoire incroyable qui se cache derrière les studios Marvel, avec des interviews exclusives et les coulisses des films Marvel, des Éditions uniques Marvel et de Marvel : Les Agents du SHIELD. Ils vont ainsi pouvoir avoir un aperçu du futur de Marvel : les Agents du SHIELD, visionner des extraits des prochains films des studios Marvel, Captain America : Le Soldat de l'hiver et Les Gardiens de la Galaxie, et voir en exclusivité mondiale les premières images d'Avengers : L'Ère d'Ultron.",
+      "popularity": 15.348,
+      "poster_path": "/8RzzlOpfS7eNWQYma8U738pMcoV.jpg",
+      "release_date": "2014-03-18",
+      "title": "Marvel : La naissance d'un univers",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 127
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cmQdrAsmZomfAl3v7WurDvZM7UK.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35
+      ],
+      "id": 284019,
+      "original_language": "en",
+      "original_title": "Phineas and Ferb: Mission Marvel",
+      "overview": "Spider-Man, Iron Man, Thor et Hulk entrent à Danville après que la machine à voyager dans les dimensions du Dr Doofenshmirtz crée un problème dans l’espace, ce qui supprime accidentellement leurs pouvoirs et les rendent humains. Phinéas et Ferb vont devoir les aider pour que leurs pouvoirs reviennent et qu'ils combattent Crâne rouge, Blacklash, Venom et MODOK.",
+      "popularity": 14.479,
+      "poster_path": "/da2AREjdecPInHzWeZ550X1aYDU.jpg",
+      "release_date": "2013-08-16",
+      "title": "Phineas and Ferb: Mission Marvel",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 128
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 975419,
+      "original_language": "en",
+      "original_title": "Marvel",
+      "overview": "",
+      "popularity": 7.397,
+      "poster_path": "/p6XFjLX7XDnAMCczOBCevVaZpFv.jpg",
+      "release_date": "1969-05-20",
+      "title": "Marvel",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zvjBC9guJVw32bZu4ODp6wzJ9Vi.jpg",
+      "genre_ids": [
+        10751,
+        16
+      ],
+      "id": 368304,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Super Heroes: Avengers Reassembled!",
+      "overview": "Tandis que les Avengers (composés de Captain America, Thor, Iron Man, Hulk, la Veuve noire, Œil-de-Faucon et la Vision) se préparent pour une fête dans la tour des Avengers, Captain America remarque qu'Iron Man s'est comporté étrangement durant la préparation de la fête. Après avoir mené leur enquête, les Avengers découvrent qu'Ultron a pris le contrôle de l'armure d'Iron Man avec l'aide de Yellowjacket et prévoit de conquérir le monde.",
+      "popularity": 18.94,
+      "poster_path": "/xUBZNoY7idPfqKZepnDEv7Qc8GC.jpg",
+      "release_date": "2015-11-16",
+      "title": "Marvel Super Heroes Avengers, tous ensemble !",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rwPr7P89OrATIdQo9kUpsIZnQhL.jpg",
+      "genre_ids": [
+        28,
+        35,
+        14,
+        53
+      ],
+      "id": 253980,
+      "original_language": "en",
+      "original_title": "Marvel One-Shot: All Hail the King",
+      "overview": "Après les événements survenus dans \"Iron Man 3\", Trevor Slattery est devenu l’incarnation du mal. Le Mandarin est donc enfermé dans une prison haute sécurité. Heureusement, sa réputation le précède, ce qui lui apporte célébrité et protection à l'intérieur même de la prison. Voyant son heure de gloire enfin venue, Trevor accepte la proposition d’un réalisateur de documentaires de réendosser son profil de faux méchant…",
+      "popularity": 18.937,
+      "poster_path": "/tbYuQj2kX7Iu2gPMMc35S5KGahv.jpg",
+      "release_date": "2014-02-04",
+      "title": "Éditions uniques Marvel : Longue vie au roi",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 378
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tMOWRvHc7sdsc7UNtK6Nfb0onWD.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        28,
+        12
+      ],
+      "id": 576743,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Chasing Ghosts",
+      "overview": "",
+      "popularity": 7.402,
+      "poster_path": "/efZ6MT5utvR4eznDyJXLKqWbi7a.jpg",
+      "release_date": "2019-01-16",
+      "title": "Marvel Rising: Chasing Ghosts",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/26lpL6CMsOFSf59zbaP13rY5z18.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        878,
+        12
+      ],
+      "id": 592688,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Operation Shuri",
+      "overview": "Après avoir longtemps vécu avec sa famille, Shuri, la jeune sœur de Black Panther, est prête à prendre son émancipation mais rencontre des difficultés sociales car elle a été toujours une guerrière. Elle sera alors aidée par les Secret Warriors pour devenir un simple humain.",
+      "popularity": 7.189,
+      "poster_path": "/4fcvluN98HWo6VB7C5ONRNOL4CY.jpg",
+      "release_date": "2019-10-11",
+      "title": "Marvel Rising: Operation Shuri",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/p056WP3fMnEcSSYhiN1kV9AyNZW.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        28,
+        35,
+        878
+      ],
+      "id": 592687,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Battle of the Bands",
+      "overview": "Marvel Rising: Battle of the Bands met en vedette Dove Cameron («Descendants 3») dans le rôle de Ghost-Spider. Le jour du concours «Battle of the Bands» de Gwen, des attaques mystérieuses l'obligent, elle et les Secret Warriors, à enquêter. Peuvent-ils sauver la ville et amener Gwen au concert à temps ?",
+      "popularity": 11.047,
+      "poster_path": "/mFL0EzAhEj3vscyGUMk6sT7pfQg.jpg",
+      "release_date": "2019-08-28",
+      "title": "Marvel Rising: Battle of the Bands",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4oQo2pkNyv5zOqwAdwI2dSJTmEx.jpg",
+      "genre_ids": [
+        16,
+        28,
+        12,
+        10751
+      ],
+      "id": 592689,
+      "original_language": "en",
+      "original_title": "Marvel Rising: Playing with Fire",
+      "overview": "",
+      "popularity": 8.411,
+      "poster_path": "/lelNkBnjIi4N1uQBV2TnODgS9UT.jpg",
+      "release_date": "2019-12-18",
+      "title": "Marvel Rising: Playing with Fire",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/EXJrCRBYAPffNuMQbX7irsbrRn.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 622230,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Spider-Man: Vexed by Venom",
+      "overview": "A cause de Green Goblin et à Venom, le vol technologique a atteint un niveau record : notre ami Spider-Man peut-il mettre fin à leur mystérieux stratagème avant que toute la ville de New York ne soit détruite ?",
+      "popularity": 11.453,
+      "poster_path": "/gTo2r8nNU3ZYAS6DqdeSp1VEqkq.jpg",
+      "release_date": "2019-08-03",
+      "title": "LEGO Marvel Spider-Man: Vexed by Venom",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1001912,
+      "original_language": "en",
+      "original_title": "The Making of Ms. Marvel",
+      "overview": "Entrez dans les coulisses, avec des images immersives, de la réalisation de la série, ainsi que des interviews perspicaces sur le plateau de la distribution et de l'équipe de Miss Marvel.",
+      "popularity": 7.516,
+      "poster_path": null,
+      "release_date": "2022-08-03",
+      "title": "Marvel Studios Rassemblement - Le Making-of de Miss Marvel",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/96ANeIgnKUqrBNlG2ZdesuOsony.jpg",
+      "genre_ids": [
+        16,
+        14,
+        10751
+      ],
+      "id": 528222,
+      "original_language": "en",
+      "original_title": "LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda",
+      "overview": "Quand Thanos commence à menacer la Terre, Black Panther entre en action. Malheureusement, son dévouement cause des problèmes à son pays le Wakanda…",
+      "popularity": 17.134,
+      "poster_path": "/lmR05oKx9w2R6sK6t781iakGjxl.jpg",
+      "release_date": "2018-06-04",
+      "title": "LEGO Marvel Super Héros – Black Panther : Dangers au Wakanda",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 41
+    }
+  ],
+  "total_pages": 10,
+  "total_results": 188
+}

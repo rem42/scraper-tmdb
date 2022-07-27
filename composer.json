@@ -1,0 +1,50 @@
+{
+  "name": "rem42/scraper-tmdb",
+  "description": "TheMovieDB website Scraper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "rem42",
+      "email": "me@remy.ovh",
+      "homepage": "https://remy.ovh"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "doctrine/collections": "^1.6",
+    "rem42/scraper": "3.x-dev",
+    "symfony/serializer-pack": "^1.0"
+  },
+  "require-dev": {
+    "rem42/php-cs-fixer-config": "^3.1",
+    "phpstan/phpstan": "^1.0",
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "Scraper\\ScraperTmdb\\": "src/"
+    },
+    "psr-4": {
+      "Scraper\\ScraperTmdb\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-0": {
+      "Scraper\\ScraperTmdb\\Tests\\": "tests/"
+    },
+    "psr-4": {
+      "Scraper\\ScraperTmdb\\Tests\\": "tests/"
+    }
+  },
+  "config": {
+    "bin-dir": "bin/"
+  },
+  "scripts": {
+    "static-analysis": "./bin/phpstan analyse src --level=max --no-progress -vvv",
+    "code-style-check": "./bin/php-cs-fixer fix --dry-run --verbose",
+    "code-style-fix": "./bin/php-cs-fixer fix",
+    "unit-test": "./bin/phpunit"
+  },
+  "sort-packages": true
+}
