@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperTmdb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="search/tv")
- */
+#[Scraper(path: 'search/tv')]
 class TmdbSearchTvRequest extends TmdbRequest
 {
     public function setLanguage(string $language): self

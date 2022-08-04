@@ -1,5 +1,5 @@
 Scraper TmDB
-=======
+============
 
 ![Packagist version](https://flat.badgen.net/packagist/v/rem42/scraper-tmdb)
 ![Packagist download](https://flat.badgen.net/packagist/dt/rem42/scraper-tmdb)
@@ -22,7 +22,7 @@ composer require rem42/scraper-tmdb
 Requirement
 -----------
 
-- PHP >= 8.0
+- PHP >= 8.1
 
 Usage
 -----

@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperTmdb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="movie/{id}")
- */
+#[Scraper(path: 'movie/{id}')]
 class TmdbMovieRequest extends TmdbRequest
 {
     private int $id;

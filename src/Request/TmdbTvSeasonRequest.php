@@ -2,11 +2,9 @@
 
 namespace Scraper\ScraperTmdb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Scraper;
 
-/**
- * @Scraper(path="tv/{id}/season/{seasonNumber}")
- */
+#[Scraper(path: 'tv/{id}/season/{seasonNumber}')]
 class TmdbTvSeasonRequest extends TmdbRequest
 {
     private int $id;

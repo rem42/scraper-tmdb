@@ -2,13 +2,13 @@
 
 namespace Scraper\ScraperTmdb\Request;
 
-use Scraper\Scraper\Annotation\Scraper;
+use Scraper\Scraper\Attribute\Method;
+use Scraper\Scraper\Attribute\Scheme;
+use Scraper\Scraper\Attribute\Scraper;
 use Scraper\Scraper\Request\RequestQuery;
 use Scraper\Scraper\Request\ScraperRequest;
 
-/**
- * @Scraper(host="api.themoviedb.org", scheme="HTTPS", method="GET", path="3/")
- */
+#[Scraper(method: Method::GET, scheme: Scheme::HTTPS, host: 'api.themoviedb.org', path: '3/')]
 abstract class TmdbRequest extends ScraperRequest implements RequestQuery
 {
     /** @var array<string, int|string|bool> */
