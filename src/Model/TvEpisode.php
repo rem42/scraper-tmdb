@@ -9,9 +9,9 @@ class TvEpisode
     /** @var array<int, Crew> */
     public array $crew = [];
     /** @var array<int, Crew> */
-    public array $guestStars   = [];
+    public array $guestStars = [];
     public ?int $episodeNumber = 0;
-    public ?int $seasonNumber  = 0;
+    public ?int $seasonNumber = 0;
     public ?\DateTimeInterface $airDate;
     public ?string $overview;
     public ?float $voteAverage;

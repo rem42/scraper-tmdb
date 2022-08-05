@@ -10,7 +10,7 @@ class Tv extends TvSearch
     public array $episodeRunTime = [];
     /** @var array<int, Genre> */
     public array $genres;
-    public ?string $homepage   = null;
+    public ?string $homepage = null;
     public ?bool $inProduction = null;
     /** @var array<int, string> */
     public array $languages = [];
@@ -18,9 +18,9 @@ class Tv extends TvSearch
     public ?TvEpisode $lastEpisodeToAir = null;
     public ?TvEpisode $nextEpisodeToAir = null;
     /** @var array<int, Company> */
-    public array $networks        = [];
+    public array $networks = [];
     public ?int $numberOfEpisodes = null;
-    public ?int $numberOfSeasons  = null;
+    public ?int $numberOfSeasons = null;
     /** @var array<int, Company> */
     public array $productionCompanies = [];
     /** @var array<int, Country> */
