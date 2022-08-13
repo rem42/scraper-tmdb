@@ -1,15 +1,15 @@
 <?php declare(strict_types=1);
 
-namespace Scraper\ScraperTmdb\Model;
+namespace Scraper\ScraperTmdb\Model\Miscellaneous;
 
 class Images
 {
     /** @var array<int, Image> */
-    public array $backdrops;
+    public array $backdrops = [];
     /** @var array<int, Image> */
-    public array $logos;
+    public array $logos = [];
     /** @var array<int, Image> */
-    public array $posters;
+    public array $posters = [];
 
     public function addBackdrop(Image $backdrop): self
     {

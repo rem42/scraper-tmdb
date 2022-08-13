@@ -2,7 +2,7 @@
 
 namespace Scraper\ScraperTmdb\Tests\Request;
 
-use Scraper\ScraperTmdb\Model\Crew;
+use Scraper\ScraperTmdb\Model\Miscellaneous\Crew;
 use Scraper\ScraperTmdb\Model\TvEpisode;
 use Scraper\ScraperTmdb\Request\TmdbTvEpisodeRequest;
 

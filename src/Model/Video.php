@@ -4,14 +4,22 @@ namespace Scraper\ScraperTmdb\Model;
 
 class Video
 {
-    public string $id;
-    public string $iso6391;
-    public string $iso31661;
-    public string $key;
-    public string $name;
-    public string $site;
-    public int $size;
-    public string $type;
-    public bool $official;
-    public \DateTimeInterface $publishedAt;
+    public ?string $iso_639_1 = null;
+    public ?string $iso_3166_1 = null;
+    public ?string $name = null;
+    public ?string $key = null;
+    public ?string $site = null;
+    public ?int $size = null;
+    public ?string $type = null;
+    public ?bool $official = null;
+    public ?\DateTimeInterface $publishedAt = null;
+    public ?string $id = null;
+
+    public function setPublishedAt(string $publishedAt): self
+    {
+        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $publishedAt)) {
+            $this->publishedAt = $dateTime;
+        }
+        return $this;
+    }
 }
