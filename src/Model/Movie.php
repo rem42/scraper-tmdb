@@ -2,26 +2,33 @@
 
 namespace Scraper\ScraperTmdb\Model;
 
+use Scraper\ScraperTmdb\Model\Miscellaneous\BelongsToCollection;
+use Scraper\ScraperTmdb\Model\Miscellaneous\Genre;
+use Scraper\ScraperTmdb\Model\Miscellaneous\Images;
+use Scraper\ScraperTmdb\Model\Miscellaneous\ProductionCompany;
+use Scraper\ScraperTmdb\Model\Miscellaneous\ProductionCountry;
+use Scraper\ScraperTmdb\Model\Miscellaneous\SpokenLanguage;
+
 class Movie extends MovieSearch
 {
-    public ?BelongsToCollection $belongsToCollection;
-    public ?int $budget;
+    public ?BelongsToCollection $belongsToCollection = null;
+    public ?int $budget = null;
     /** @var array<int, Genre> */
-    public array $genres;
-    public ?string $homepage;
-    public ?string $imdbId;
-    /** @var array<int, Company> */
-    public array $productionCompanies;
-    /** @var array<int, Country> */
-    public array $productionCountries;
-    public ?int $revenue;
-    public ?int $runtime;
-    /** @var array<int, Language> */
-    public array $spokenLanguages;
-    public ?string $status;
-    public ?string $tagline;
-    public ?Images $images;
-    public ?Videos $videos;
+    public array $genres = [];
+    public ?string $homepage = null;
+    public ?string $imdbId = null;
+    /** @var array<int, ProductionCompany> */
+    public array $productionCompanies = [];
+    /** @var array<int, ProductionCountry> */
+    public array $productionCountries = [];
+    public ?int $revenue = null;
+    public ?int $runtime = null;
+    /** @var array<int, SpokenLanguage> */
+    public array $spokenLanguages = [];
+    public ?string $status = null;
+    public ?string $tagline = null;
+    public ?Images $images = null;
+    public ?Videos $videos = null;
 
     public function addGenre(Genre $genre): self
     {
@@ -29,21 +36,21 @@ class Movie extends MovieSearch
         return $this;
     }
 
-    public function addProductionCompany(Company $company): self
+    public function addProductionCompany(ProductionCompany $productionCompany): self
     {
-        $this->productionCompanies[] = $company;
+        $this->productionCompanies[] = $productionCompany;
         return $this;
     }
 
-    public function addProductionCountry(Country $country): self
+    public function addProductionCountry(ProductionCountry $productionCountry): self
     {
-        $this->productionCountries[] = $country;
+        $this->productionCountries[] = $productionCountry;
         return $this;
     }
 
-    public function addSpokenLanguage(Language $language): self
+    public function addSpokenLanguage(SpokenLanguage $spokenLanguage): self
     {
-        $this->spokenLanguages[] = $language;
+        $this->spokenLanguages[] = $spokenLanguage;
         return $this;
     }
 }

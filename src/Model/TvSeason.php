@@ -14,9 +14,9 @@ class TvSeason
     /** @var array<int, TvEpisode> */
     public array $episodes = [];
 
-    public function setAirDate(string $lastAirDate): self
+    public function setAirDate(string $airDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $lastAirDate)) {
+        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
             $this->airDate = $dateTime;
         }
         return $this;
