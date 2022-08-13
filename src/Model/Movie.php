@@ -3,11 +3,13 @@
 namespace Scraper\ScraperTmdb\Model;
 
 use Scraper\ScraperTmdb\Model\Miscellaneous\BelongsToCollection;
+use Scraper\ScraperTmdb\Model\Miscellaneous\Casts;
 use Scraper\ScraperTmdb\Model\Miscellaneous\Genre;
 use Scraper\ScraperTmdb\Model\Miscellaneous\Images;
 use Scraper\ScraperTmdb\Model\Miscellaneous\ProductionCompany;
 use Scraper\ScraperTmdb\Model\Miscellaneous\ProductionCountry;
 use Scraper\ScraperTmdb\Model\Miscellaneous\SpokenLanguage;
+use Scraper\ScraperTmdb\Model\Miscellaneous\Trailer;
 
 class Movie extends MovieSearch
 {
@@ -27,8 +29,10 @@ class Movie extends MovieSearch
     public array $spokenLanguages = [];
     public ?string $status = null;
     public ?string $tagline = null;
+    public ?Casts $casts = null;
     public ?Images $images = null;
     public ?Videos $videos = null;
+    public ?Trailer $trailers = null;
 
     public function addGenre(Genre $genre): self
     {
