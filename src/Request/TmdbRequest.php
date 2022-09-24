@@ -29,6 +29,13 @@ abstract class TmdbRequest extends ScraperRequest implements RequestQuery
         );
     }
 
+    public function setLanguage(string $language): self
+    {
+        $this->parameters['language'] = $language;
+
+        return $this;
+    }
+
     /**
      * @param array<int, string> $list
      */

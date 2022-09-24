@@ -7,13 +7,6 @@ use Scraper\Scraper\Attribute\Scraper;
 #[Scraper(path: 'search/tv')]
 class TmdbSearchTvRequest extends TmdbRequest
 {
-    public function setLanguage(string $language): self
-    {
-        $this->parameters['language'] = $language;
-
-        return $this;
-    }
-
     public function setPage(int $page): self
     {
         $this->parameters['page'] = $page;
