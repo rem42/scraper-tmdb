@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Request;
 
@@ -19,6 +21,7 @@ class TmdbTvEpisodeRequest extends TmdbRequest
     public function setId(int $id): self
     {
         $this->id = $id;
+
         return $this;
     }
 
@@ -30,6 +33,7 @@ class TmdbTvEpisodeRequest extends TmdbRequest
     public function setSeasonNumber(int $seasonNumber): self
     {
         $this->seasonNumber = $seasonNumber;
+
         return $this;
     }
 
@@ -41,6 +45,7 @@ class TmdbTvEpisodeRequest extends TmdbRequest
     public function setEpisodeNumber(int $episodeNumber): self
     {
         $this->episodeNumber = $episodeNumber;
+
         return $this;
     }
 }

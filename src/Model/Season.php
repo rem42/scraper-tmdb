@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Model;
 
@@ -17,6 +19,7 @@ class Season
         if ($dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
             $this->airDate = $dateTime;
         }
+
         return $this;
     }
 }

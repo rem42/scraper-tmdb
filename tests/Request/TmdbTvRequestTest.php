@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Tests\Request;
 
@@ -10,7 +12,7 @@ use Scraper\ScraperTmdb\Request\TmdbTvRequest;
 /**
  * @internal
  */
-class TmdbTvRequestTest extends AbtractRequestTest
+class TmdbTvRequestTest extends AbstractRequestTestCase
 {
     public function testTmdbTvRequest(): void
     {

@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Request;
 
@@ -15,7 +17,7 @@ abstract class TmdbRequest extends ScraperRequest implements RequestQuery
     protected array $parameters = [];
 
     public function __construct(
-        protected string $apiKey
+        protected string $apiKey,
     ) {}
 
     /**

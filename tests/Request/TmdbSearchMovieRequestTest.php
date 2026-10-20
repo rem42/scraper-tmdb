@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Tests\Request;
 
@@ -9,7 +11,7 @@ use Scraper\ScraperTmdb\Request\TmdbSearchMovieRequest;
 /**
  * @internal
  */
-class TmdbSearchMovieRequestTest extends AbtractRequestTest
+class TmdbSearchMovieRequestTest extends AbstractRequestTestCase
 {
     public function testTmdbSearchMovieRequest(): void
     {

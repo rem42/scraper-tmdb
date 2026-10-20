@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Model;
 
@@ -6,6 +8,7 @@ class MovieSearch
 {
     public ?bool $adult = null;
     public ?string $backdropPath = null;
+
     /** @var array<int, int> */
     public array $genreIds = [];
     public ?int $id = null;
@@ -25,6 +28,7 @@ class MovieSearch
         if ($dateTime = \DateTime::createFromFormat('Y-m-d', $releaseDate)) {
             $this->releaseDate = $dateTime;
         }
+
         return $this;
     }
 }

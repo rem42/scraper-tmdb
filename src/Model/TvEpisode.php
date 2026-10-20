@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Model;
 
@@ -9,8 +11,10 @@ class TvEpisode
     public ?int $id = null;
     public ?int $showId = null;
     public ?string $name = null;
+
     /** @var array<int, Crew> */
     public array $crew = [];
+
     /** @var array<int, Crew> */
     public array $guestStars = [];
     public ?int $episodeNumber = 0;
@@ -28,18 +32,21 @@ class TvEpisode
         if ($dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
             $this->airDate = $dateTime;
         }
+
         return $this;
     }
 
     public function addCrew(Crew $crew): self
     {
         $this->crew[] = $crew;
+
         return $this;
     }
 
     public function addGuestStar(Crew $crew): self
     {
         $this->guestStars[] = $crew;
+
         return $this;
     }
 }

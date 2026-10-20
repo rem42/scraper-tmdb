@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Model;
 
@@ -11,6 +13,7 @@ class TvSeason
     public ?string $posterPath;
     public ?\DateTimeInterface $airDate;
     public ?string $overview;
+
     /** @var array<int, TvEpisode> */
     public array $episodes = [];
 
@@ -19,12 +22,14 @@ class TvSeason
         if ($dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
             $this->airDate = $dateTime;
         }
+
         return $this;
     }
 
     public function addEpisode(TvEpisode $episode): self
     {
         $this->episodes[] = $episode;
+
         return $this;
     }
 }

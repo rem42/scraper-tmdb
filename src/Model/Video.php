@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 namespace Scraper\ScraperTmdb\Model;
 
@@ -20,6 +22,7 @@ class Video
         if ($dateTime = \DateTime::createFromFormat('Y-m-d', $publishedAt)) {
             $this->publishedAt = $dateTime;
         }
+
         return $this;
     }
 }
