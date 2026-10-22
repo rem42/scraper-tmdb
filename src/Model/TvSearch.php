@@ -24,9 +24,9 @@ class TvSearch
     public float|int|null $voteAverage = null;
     public ?int $voteCount = null;
 
-    public function setFirstAirDate(string $firstAirDate): self
+    public function setFirstAirDate(?string $firstAirDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $firstAirDate)) {
+        if (null !== $firstAirDate && $dateTime = \DateTime::createFromFormat('Y-m-d', $firstAirDate)) {
             $this->firstAirDate = $dateTime;
         }
 

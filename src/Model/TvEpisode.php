@@ -27,9 +27,9 @@ class TvEpisode
     public ?string $productionCode = null;
     public ?int $runtime = null;
 
-    public function setAirDate(string $airDate): self
+    public function setAirDate(?string $airDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
+        if (null !== $airDate && $dateTime = \DateTime::createFromFormat('Y-m-d', $airDate)) {
             $this->airDate = $dateTime;
         }
 

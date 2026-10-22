@@ -55,9 +55,9 @@ class Tv extends TvSearch
     public ?Images $images = null;
     public ?Videos $videos = null;
 
-    public function setLastAirDate(string $lastAirDate): self
+    public function setLastAirDate(?string $lastAirDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $lastAirDate)) {
+        if (null !== $lastAirDate && $dateTime = \DateTime::createFromFormat('Y-m-d', $lastAirDate)) {
             $this->lastAirDate = $dateTime;
         }
 

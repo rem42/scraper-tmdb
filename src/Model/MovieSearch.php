@@ -23,9 +23,9 @@ class MovieSearch
     public float|int|null $voteAverage = null;
     public ?int $voteCount = null;
 
-    public function setReleaseDate(string $releaseDate): self
+    public function setReleaseDate(?string $releaseDate): self
     {
-        if ($dateTime = \DateTime::createFromFormat('Y-m-d', $releaseDate)) {
+        if (null !== $releaseDate && $dateTime = \DateTime::createFromFormat('Y-m-d', $releaseDate)) {
             $this->releaseDate = $dateTime;
         }
 

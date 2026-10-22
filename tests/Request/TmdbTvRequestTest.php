@@ -29,4 +29,21 @@ class TmdbTvRequestTest extends AbstractRequestTestCase
         $this->assertInstanceOf(Images::class, $result->images);
         $this->assertInstanceOf(Videos::class, $result->videos);
     }
+
+    public function testTmdbTvRequestWithoutAirDates(): void
+    {
+        $client = $this->getClient('tv_upcoming.json');
+
+        $request = new TmdbTvRequest('apiKey');
+        $request
+            ->setId(224377)
+        ;
+
+        $result = $client->send($request);
+
+        $this->assertInstanceOf(Tv::class, $result);
+        $this->assertNull($result->firstAirDate);
+        $this->assertNull($result->lastAirDate);
+        $this->assertNull($result->seasons[0]->airDate);
+    }
 }
